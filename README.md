@@ -1,5 +1,7 @@
 # ESP32-S3-Box3-Custom-ESPHome
- Custom ESPHome config for ESP32-S3-Box-3 with sensors and touchscreen<br><br>
+### This is NOT the original repo, please see the top of the page from where this is forked from.
+### Do NOT try to compile personal.yaml, it will fail as there are entities in there with my own names.
+### Please wait until I make a user friendly version or pick out the entities yourself.
  
  To go straight to the web installer [click here](<https://support.bbdl.co.uk>)<br>
  
